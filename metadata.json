@@ -1,0 +1,7 @@
+{
+  "name": "TẠO BÀI KIÊM TRA THEO CV 7991 LỚP 6-CUM8-CHUAN",
+  "description": "An advanced AI-powered system for generating Vietnamese MoET-compliant English tests (CV 7991) using automated content extraction and cognitive level balancing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
